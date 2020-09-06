@@ -121,7 +121,7 @@ a:hover{
 
 .resume {
     display: grid;
-    grid-template-columns: 32% 1fr;
+    grid-template-columns: 40% 1fr;
     grid-gap: 4rem;
     background-color: white;
     padding: 3rem;
